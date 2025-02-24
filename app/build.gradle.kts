@@ -56,7 +56,6 @@ dependencies {
     // Dagger - Hilt
     implementation(libs.hilt.android)
     implementation(libs.androidx.hilt.navigation.fragment)
-    implementation(libs.hilt.android.v2511)
     ksp(libs.hilt.android.compiler)
     //kapt("com.google.dagger:hilt-compiler:2.44")
     //kapt("androidx.hilt:hilt-compiler:1.1.0")
